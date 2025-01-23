@@ -1,0 +1,14 @@
+C:\Users\eliseu.gssantos\source\repos\Lista_02_exercicios\Lista_02_exercicios\obj\Debug\net8.0\Lista_02_exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliseu.gssantos\source\repos\Lista_02_exercicios\Lista_02_exercicios\obj\Debug\net8.0\Lista_02_exercicios.AssemblyInfoInputs.cache
+C:\Users\eliseu.gssantos\source\repos\Lista_02_exercicios\Lista_02_exercicios\obj\Debug\net8.0\Lista_02_exercicios.AssemblyInfo.cs
+C:\Users\eliseu.gssantos\source\repos\Lista_02_exercicios\Lista_02_exercicios\obj\Debug\net8.0\Lista_02_exercicios.csproj.CoreCompileInputs.cache
+C:\Users\eliseu.gssantos\source\repos\Lista_02_exercicios\Lista_02_exercicios\bin\Debug\net8.0\Lista_02_exercicios.exe
+C:\Users\eliseu.gssantos\source\repos\Lista_02_exercicios\Lista_02_exercicios\bin\Debug\net8.0\Lista_02_exercicios.deps.json
+C:\Users\eliseu.gssantos\source\repos\Lista_02_exercicios\Lista_02_exercicios\bin\Debug\net8.0\Lista_02_exercicios.runtimeconfig.json
+C:\Users\eliseu.gssantos\source\repos\Lista_02_exercicios\Lista_02_exercicios\bin\Debug\net8.0\Lista_02_exercicios.dll
+C:\Users\eliseu.gssantos\source\repos\Lista_02_exercicios\Lista_02_exercicios\bin\Debug\net8.0\Lista_02_exercicios.pdb
+C:\Users\eliseu.gssantos\source\repos\Lista_02_exercicios\Lista_02_exercicios\obj\Debug\net8.0\Lista_02_exercicios.dll
+C:\Users\eliseu.gssantos\source\repos\Lista_02_exercicios\Lista_02_exercicios\obj\Debug\net8.0\refint\Lista_02_exercicios.dll
+C:\Users\eliseu.gssantos\source\repos\Lista_02_exercicios\Lista_02_exercicios\obj\Debug\net8.0\Lista_02_exercicios.pdb
+C:\Users\eliseu.gssantos\source\repos\Lista_02_exercicios\Lista_02_exercicios\obj\Debug\net8.0\Lista_02_exercicios.genruntimeconfig.cache
+C:\Users\eliseu.gssantos\source\repos\Lista_02_exercicios\Lista_02_exercicios\obj\Debug\net8.0\ref\Lista_02_exercicios.dll
