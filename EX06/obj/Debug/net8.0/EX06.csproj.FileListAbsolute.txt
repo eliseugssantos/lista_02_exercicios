@@ -1,0 +1,15 @@
+C:\Users\elize\source\repos\lista_02_exercicios\EX06\obj\Debug\net8.0\EX06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elize\source\repos\lista_02_exercicios\EX06\obj\Debug\net8.0\EX06.AssemblyInfoInputs.cache
+C:\Users\elize\source\repos\lista_02_exercicios\EX06\obj\Debug\net8.0\EX06.AssemblyInfo.cs
+C:\Users\elize\source\repos\lista_02_exercicios\EX06\obj\Debug\net8.0\EX06.csproj.CoreCompileInputs.cache
+C:\Users\elize\source\repos\lista_02_exercicios\EX06\obj\Debug\net8.0\EX06.sourcelink.json
+C:\Users\elize\source\repos\lista_02_exercicios\EX06\bin\Debug\net8.0\EX06.exe
+C:\Users\elize\source\repos\lista_02_exercicios\EX06\bin\Debug\net8.0\EX06.deps.json
+C:\Users\elize\source\repos\lista_02_exercicios\EX06\bin\Debug\net8.0\EX06.runtimeconfig.json
+C:\Users\elize\source\repos\lista_02_exercicios\EX06\bin\Debug\net8.0\EX06.dll
+C:\Users\elize\source\repos\lista_02_exercicios\EX06\bin\Debug\net8.0\EX06.pdb
+C:\Users\elize\source\repos\lista_02_exercicios\EX06\obj\Debug\net8.0\EX06.dll
+C:\Users\elize\source\repos\lista_02_exercicios\EX06\obj\Debug\net8.0\refint\EX06.dll
+C:\Users\elize\source\repos\lista_02_exercicios\EX06\obj\Debug\net8.0\EX06.pdb
+C:\Users\elize\source\repos\lista_02_exercicios\EX06\obj\Debug\net8.0\EX06.genruntimeconfig.cache
+C:\Users\elize\source\repos\lista_02_exercicios\EX06\obj\Debug\net8.0\ref\EX06.dll
